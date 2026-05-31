@@ -20,11 +20,7 @@ Aplikasi fullstack web untuk pengelolaan data pertanian Nusa Tenggara Timur. Pro
 - Menu impor data CSV/XLSX/JSON untuk pembaruan data berikutnya
 
 ## Akun demo
-
-- admin.ntt@sitani.local / demo12345
 - petugas.kupang@sitani.local / demo12345
-- penyuluh.flores@sitani.local / demo12345
-- user.demo@sitani.local / demo12345
 
 ## Cara menjalankan
 
